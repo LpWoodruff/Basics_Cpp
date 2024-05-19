@@ -19,5 +19,5 @@ Currently used to sort vectors of integers
 ## Documentation
 
 Class SortAlgs(std::vector<int>) - A class that handles numerous sorting algorithms
-        ss_Sort() - A methood that uses Selection Sort to sort a vector
-        is_Sort() - A method that utilizes Insersion Sort to sort a vector
+        -ss_Sort() - A methood that uses Selection Sort to sort a vector
+        -is_Sort() - A method that utilizes Insersion Sort to sort a vector
