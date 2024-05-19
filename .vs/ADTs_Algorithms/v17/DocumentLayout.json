@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\Vs Solutions\\ADTs_Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|solutionrelative:ADTs_Algorithms\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\SortAlgs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|solutionrelative:ADTs_Algorithms\\SortAlgs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{124E507B-B4D3-4678-AB55-67E66584AA1D}|ADTs_Algorithms\\ADTs_Algorithms.vcxproj|solutionrelative:ADTs_Algorithms\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SortAlgs.h",
-              "DocumentMoniker": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\SortAlgs.h",
-              "RelativeDocumentMoniker": "ADTs_Algorithms\\SortAlgs.h",
-              "ToolTip": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\SortAlgs.h",
-              "RelativeToolTip": "ADTs_Algorithms\\SortAlgs.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-18T19:40:56.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\main.cpp",
               "RelativeDocumentMoniker": "ADTs_Algorithms\\main.cpp",
               "ToolTip": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\main.cpp",
               "RelativeToolTip": "ADTs_Algorithms\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-18T19:40:09.577Z",
+              "WhenOpened": "2024-05-19T07:04:46.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortAlgs.h",
+              "DocumentMoniker": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\SortAlgs.h",
+              "RelativeDocumentMoniker": "ADTs_Algorithms\\SortAlgs.h",
+              "ToolTip": "G:\\Vs Solutions\\ADTs_Algorithms\\ADTs_Algorithms\\SortAlgs.h",
+              "RelativeToolTip": "ADTs_Algorithms\\SortAlgs.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-19T07:03:27.669Z",
               "EditorCaption": ""
             }
           ]
