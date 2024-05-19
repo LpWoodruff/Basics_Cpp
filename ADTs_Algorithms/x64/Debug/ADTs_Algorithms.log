@@ -1,11 +1,11 @@
-﻿  SortAlgs.cpp
-G:\Vs Solutions\ADTs_Algorithms\ADTs_Algorithms\SortAlgs.h(16,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  (compiling source file 'SortAlgs.cpp')
-  
-  main.cpp
+﻿  main.cpp
 G:\Vs Solutions\ADTs_Algorithms\ADTs_Algorithms\SortAlgs.h(16,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'main.cpp')
   
 G:\Vs Solutions\ADTs_Algorithms\ADTs_Algorithms\main.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortAlgs.cpp
+G:\Vs Solutions\ADTs_Algorithms\ADTs_Algorithms\SortAlgs.h(16,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'SortAlgs.cpp')
+  
   Generating Code...
   ADTs_Algorithms.vcxproj -> G:\Vs Solutions\ADTs_Algorithms\x64\Debug\ADTs_Algorithms.exe
