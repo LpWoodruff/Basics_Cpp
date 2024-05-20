@@ -1,6 +1,8 @@
 #pragma once
 #include <iostream>
 #include <vector>
+
+
 class SortAlgs
 {
 	private:
@@ -15,14 +17,11 @@ class SortAlgs
 	// Constructor
 		SortAlgs(std::vector<int>& numbers) : nums(numbers), n(numbers.size()) {}
 
-
-
-
 	// Selection Sort
-	/*
+		/*
 		Selection sort works by selecting an element in an array, and compares it to all other elements linearly.
-	*/
-		void ss_Sort()
+		*/
+		void ss_sort()
 		{
 			for (int i = 0; i < n - 1; i++)
 			{
@@ -40,13 +39,11 @@ class SortAlgs
 				}
 			}
 		}
-
-
 	// Insertion Sort
-	/*
+		/*
 		Insertion sort works by dividing an array into two parts, and sorts them individually	
-	*/
-		void is_Sort()
+		*/
+		void is_sort()
 		{
 			int key, j;
 			for (int i = 1; i < n; i++)
@@ -61,6 +58,26 @@ class SortAlgs
 				nums[j + 1] = key;
 			}
 		}
+	// Bubble Sort
+		/*
+		Bubble sort works by repeatedly stepping through the list of elements to be sorted, comparing each pair of adjacent items, and swapping them if they are in the wrong order.
+		*/
+		void bs_sort()
+		{
+			int i, j;
+			for (int i = 0; i < n - 1; i++)
+				for (j = 0; j < n - i - 1; j++)
+					if (nums[j] > nums[j + 1])
+						std::swap(nums[j], nums[j + 1]);
+			get_nums();
+		}
+
+
+		//void rs_sort(int p)
+		//{
+			//p = *max_element(a.begin(), a.end());
+			//get_nums();
+		//}
 	 
 
 };

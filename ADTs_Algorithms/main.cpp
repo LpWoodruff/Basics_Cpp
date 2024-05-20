@@ -9,7 +9,7 @@ int main()
 	SortAlgs sorter(testCase);
 
 
-	sorter.is_Sort();
+	sorter.bs_sort();
 
 	std::vector<int> sorted = sorter.get_nums();
 
