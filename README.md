@@ -9,5 +9,6 @@ Currently used to sort vectors of integers.
 ## Documentation
 
 - `SortAlgs(std::vector)`: A class that handles numerous sorting algorithms.
-  - `ss_Sort()`: A method that uses Selection Sort to sort a vector.
-  - `is_Sort()`: A method that utilizes Insertion Sort to sort a vector.
+  - `ss_sort()`: A method that uses Selection Sort to sort a vector.
+  - `is_sort()`: A method that utilizes Insertion Sort to sort a vector.
+  -`bs_sort()`: A method that uses bubble sort to sort a vector.
